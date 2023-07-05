@@ -18,6 +18,8 @@
  ### push an existing repository from the command line
  <div>
     <ul>
+        <li>git add .</li>
+        <li>git commit -m "Second Commit"</li>
         <li>git remote add origin https://github.com/Pravash2525/Ineuron_Asssignments.git</li>
         <li>git branch -M main</li>
         <li>git push -u origin main</li>
