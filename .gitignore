@@ -1,2 +1,4 @@
 /Python_Basics/.ipynb_checkpoints
 /Programming_Assignment/.ipynb_checkpoints
+*.ipynb_checkpoints
+* .ipynb_checkpoints
